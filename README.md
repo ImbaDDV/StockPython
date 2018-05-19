@@ -1,2 +1,1 @@
 # StockPython
-# 1
