@@ -1,15 +1,24 @@
+# @Author: Shi Wei <Minsk>
+# @Date:   2019-05-22
+# @Email:  250110242@qq.com
+# @Project: write
+# @Last modified by:   Minsk
+# @Last modified time: 2019-06-21
+
+
+
 """
 输出乘法口诀表(九九表)
 
 Version: 0.1
 Author: 骆昊
 """
-"""
-for i in range(1, 10):
-    for j in range(1, i + 1):
-        print('%d*%d=%d' % (i, j, i * j), end='\t')
-    print()
-"""
+
+# for i in range(1, 10):
+#     for j in range(1, i + 1):
+#         print('%d*%d=%d' % (i, j, i * j), end='\t')
+#     print()
+
 
 """
 输入一个正整数判断它是不是素数
