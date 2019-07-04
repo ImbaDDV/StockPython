@@ -3,8 +3,8 @@
 # @Date:   2019-06-23
 # @Email:  250110242@qq.com
 # @Project: 函数和模块的使用
-# @Last modified by:   Minsk
-# @Last modified time: 2019-06-23
+# @Last modified by:   Shi Wei
+# @Last modified time: 2019-06-27
 
 
 #实现计算求最大公约数和最小公倍数的函数
